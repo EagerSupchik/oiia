@@ -1,0 +1,7 @@
+.cat {
+  position: absolute;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-drag: none;
+  z-index: 100;
+}
